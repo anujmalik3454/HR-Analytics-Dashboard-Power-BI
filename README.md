@@ -29,3 +29,7 @@ This project focuses on analyzing employee workforce data and presenting meaning
 ## Dashboard
 
 Interactive Power BI dashboard with KPI cards, charts, slicers, and filters.
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](Dashboard.png)
